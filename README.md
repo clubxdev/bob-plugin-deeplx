@@ -1,3 +1,6 @@
+**可以使用 ja-netfilter提供的免费api**
+https://api.deeplx.org/translate
+
 **重要提示：由于 zu1k 的 deepl 镜像已删除，本插件已不再可用，无需往下看了。**
 
 本插件配合 [zu1k/deepl](https://hub.docker.com/r/zu1k/deepl) docker 镜像可使用 DeepL 翻译。
